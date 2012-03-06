@@ -1,0 +1,5 @@
+name: MCNSAVerse
+main: com.mcnsa.mcnsaverse.MCNSAVerse
+version: 1.0.0
+author: FuzzyWuzzie
+depend: [PermissionsEx]
